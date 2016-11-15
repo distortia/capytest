@@ -1,0 +1,140 @@
+{
+  "uid" : "93a4342ee819b458",
+  "name" : "Invalid login",
+  "title" : "Invalid login",
+  "time" : {
+    "start" : 1467206087508,
+    "stop" : 1467206091291,
+    "duration" : 3783
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 6
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "42e9fd4471be5908",
+    "name" : "Testing",
+    "title" : "Testing"
+  },
+  "steps" : [ {
+    "name" : "I am a web app user",
+    "title" : "I am a web app user",
+    "time" : {
+      "start" : 1467206090286,
+      "stop" : 1467206090286,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "I am on the home page",
+    "title" : "I am on the home page",
+    "time" : {
+      "start" : 1467206090286,
+      "stop" : 1467206090286,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "I click the form authentication link",
+    "title" : "I click the form authentication link",
+    "time" : {
+      "start" : 1467206090286,
+      "stop" : 1467206090286,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "I am on the login page",
+    "title" : "I am on the login page",
+    "time" : {
+      "start" : 1467206090748,
+      "stop" : 1467206090749,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "I click the login button",
+    "title" : "I click the login button",
+    "time" : {
+      "start" : 1467206090287,
+      "stop" : 1467206090748,
+      "duration" : 461
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "the error message contains \"Your username is invalid\"",
+    "title" : "the error message contains \"Your username is invalid\"",
+    "time" : {
+      "start" : 1467206090749,
+      "stop" : 1467206090837,
+      "duration" : 88
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Invalid login"
+  }, {
+    "name" : "suite-name",
+    "value" : "Testing"
+  }, {
+    "name" : "suite-title",
+    "value" : "Testing"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "host",
+    "value" : "PC200955"
+  }, {
+    "name" : "thread",
+    "value" : "3351684"
+  }, {
+    "name" : "feature",
+    "value" : "Testing"
+  } ],
+  "parameters" : [ ]
+}

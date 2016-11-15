@@ -1,0 +1,6 @@
+gem 'capybara'
+gem 'site_prism'
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'rspec-expectations'
+gem 'allure-cucumber'

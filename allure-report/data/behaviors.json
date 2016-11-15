@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "Testing",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "d4f70c5f708c7c24",
+      "title" : "Invalid login",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "93a4342ee819b458",
+        "name" : "Invalid login",
+        "title" : "Invalid login",
+        "time" : {
+          "start" : 1467206087508,
+          "stop" : 1467206091291,
+          "duration" : 3783
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

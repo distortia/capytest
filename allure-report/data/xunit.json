@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1467206087508,
+    "stop" : 1467206091291,
+    "duration" : 3783
+  },
+  "testSuites" : [ {
+    "uid" : "42e9fd4471be5908",
+    "name" : "Testing",
+    "title" : "Testing",
+    "time" : {
+      "start" : 1467206087508,
+      "stop" : 1467206091291,
+      "duration" : 3783
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "93a4342ee819b458",
+      "name" : "Invalid login",
+      "title" : "Invalid login",
+      "time" : {
+        "start" : 1467206087508,
+        "stop" : 1467206091291,
+        "duration" : 3783
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

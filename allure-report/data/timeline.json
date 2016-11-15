@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "PC200955",
+    "threads" : [ {
+      "title" : "3351684",
+      "testCases" : [ {
+        "uid" : "93a4342ee819b458",
+        "name" : "Invalid login",
+        "title" : "Invalid login",
+        "time" : {
+          "start" : 1467206087508,
+          "stop" : 1467206091291,
+          "duration" : 3783
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
